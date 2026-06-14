@@ -4,6 +4,10 @@
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Title>SmartCore.Telemetry</Title>
+    <Authors>felipe.alpizar</Authors>
+    <Description>Open telemetry projects to .net 9 solutions</Description>
   </PropertyGroup>
 
   <ItemGroup>
