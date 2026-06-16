@@ -6,6 +6,8 @@
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Title>SmartCore.Telemetry</Title>
+    <PackageId>SmartCore.Telemetry</PackageId>
+    <Version>1.0.0</Version>
     <Authors>felipe.alpizar</Authors>
     <Description>Open telemetry projects to .net 9 solutions</Description>
   </PropertyGroup>
